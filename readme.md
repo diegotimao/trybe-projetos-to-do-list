@@ -6,7 +6,7 @@ O projeto To-do List, foi desenvolvido como requisito para obtensão de nota, re
 	🚧  To-do List 🚀 Concluído  🚧
 </h4>
 
-### Habilidades 
+### :hotsprings: Habilidades 
 
 As seguintes habilidades foram ultilizadas na construção do projeto:
 
@@ -24,7 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Vscode](https://code.visualstudio.com/)
 
 
-### Principais ações
+### :dart: Principais ações
 
 - [x] Lista as tarefas 
 - [x] Cria novas tarefas
@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Salva lista no localStorage
 - [x] Retorna lista do localStorage
 
-### Demonstração projeto pronto
+### :movie_camera: Demonstração projeto pronto
 
 <h1 align="center" >
   <img alt="PixelsArt" title="#To-do List" src="./assets/photo1.png" />
