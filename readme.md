@@ -1,6 +1,6 @@
 # To-do List 
 
-#### O projeto To-do List, foi desenvolvido como requisito para obtensão de nota, referente ao curso de Desenvolvimento de Software na trybe, no módulo de fundamentos da Web, é uma página web que contém uma lista de tarefas usando que poderá ser utilizada pelo usuário para criar, excluir, cadastrar e mais ações abaixo descritas. Para isto foi ultilizado javascript, css e html.
+O projeto To-do List, foi desenvolvido como requisito para obtensão de nota, referente ao curso de Desenvolvimento de Software na trybe, no módulo de fundamentos da Web, é uma página web que contém uma lista de tarefas usando que poderá ser utilizada pelo usuário para criar, excluir, cadastrar e mais ações abaixo descritas. Para isto foi ultilizado javascript, css e html.
 
 <h4 align="center"> 
 	🚧  To-do List 🚀 Concluído  🚧
