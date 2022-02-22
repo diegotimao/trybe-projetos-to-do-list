@@ -8,6 +8,8 @@
 
 ### Habilidades 
 
+As seguintes habilidades foram ultilizadas na construção do projeto:
+
 - Manipulação CSS
 - Manipulação HTML
 - Manipulação JavaScript
